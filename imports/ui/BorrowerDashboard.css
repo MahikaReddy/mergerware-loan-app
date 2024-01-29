@@ -1,0 +1,20 @@
+.borrower-dashboard {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .loan-request-section {
+    margin-bottom: 20px;
+  }
+  
+  .loan-request-section form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .loan-request-section label {
+    margin-right: 10px;
+  }
+  
+  /* Add more styles as needed */
+  
